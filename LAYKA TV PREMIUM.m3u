@@ -1,0 +1,1978 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="LAYKA TV",TOP LATINO
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="LAYKA TV",PLUTO CONCIERTO
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6080411af03506000759916e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fbb571-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9c6d294f-660b-47ef-bc20-1961faf21c6a
+
+#EXTINF:-1 group-title="LAYKA TV",PLUTO MTV LATINO
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96d351652631e36d4331f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=965&terminate=false&userId=
+
+#EXTINF:-1 group-title="LAYKA TV",PLUTO VH1 CLASSIC
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 group-title="LAYKA TV",PLUTO SURF
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d1ce51dbaca4afdb7abfe5f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5d1ce51dbaca4afdb7abfe5f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=abec40e3-86b9-48b6-981d-dc5eeecc6cf9&terminate=false&userId=
+
+#EXTINF:-1 group-title="LAYKA TV",LATINA SD
+https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
+
+#EXTINF:-1 group-title="LAYKA TV",FOX SPORTS 2 HD
+http://181.189.243.254:8000/play/a0sp/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA TV",ANIMEZONETV
+https://azxtv.com/hls/stream.m3u8
+
+#EXTINF:-1 group-title="LAYKA TV",RETRO PLUS 3
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
+
+#EXTINF:-1 group-title="LAYKA TV",EXITOSA HD
+https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
+
+#EXTINF:-1 group-title="LAYKA TV",FIGTH NETWORK
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1 group-title="LAYKA TV",VEVO 80s
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="LAYKA TV",ROCK TV HD
+https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
+
+#EXTINF:-1 group-title="LAYKA TV",RETRO PLUS HD
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+
+#EXTINF:-1 group-title="LAYKA TV",RETRO PLUS 2
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
+
+#EXTINF:-1 group-title="LAYKA TV",MTV 00
+http://195.24.89.82/VH1_SD/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA TV",TV PERU
+https://cdnh4.iblups.com/hls/R9WtilpKKB.m3u8
+
+#EXTINF:-1 group-title="LAYKA TV",FOX SPORTS 2
+https://d17lgdx4t7a4od.cloudfront.net:443/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index_155.m3u8
+
+#EXTINF:-1 group-title="LAYKA TV",ATV
+https://atvperu.akamaized.net:443/hls/live/2100630/atv/master_720.m3u8
+
+#EXTINF:-1 group-title="LAYKA TV",ATV SUR
+https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="LAYKA TV",AMERICA TV
+http://50.7.66.234:8080/Victor6127/V6127/1068850
+
+#EXTINF:-1 group-title="LAYKA TV",TV PLUS
+http://50.7.66.234:8080/Victor6127/V6127/54853
+
+#EXTINF:-1 group-title="LAYKA TV",ATV+
+http://50.7.66.234:8080/Victor6127/V6127/8333
+
+#EXTINF:-1 group-title="LAYKA TV",ATV PLUS
+http://50.7.66.234:8080/Victor6127/V6127/7449
+
+#EXTINF:-1 group-title="LAYKA TV",LATINA
+http://50.7.66.234:8080/Victor6127/V6127/56273
+
+#EXTINF:-1 group-title="LAYKA TV",PERU MAGICO
+http://50.7.66.234:8080/Victor6127/V6127/8323
+
+#EXTINF:-1 group-title="LAYKA TV",AMERICA
+http://50.7.66.234:8080/Victor6127/V6127/1087194
+
+#EXTINF:-1 group-title="LAYKA TV",WILLAX
+http://50.7.66.234:8080/Victor6127/V6127/1085372
+
+#EXTINF:-1 group-title="LAYKA TV",CANAL N
+http://50.7.66.234:8080/Victor6127/V6127/7825
+
+#EXTINF:-1 group-title="LAYKA TV", MOVISTAR DEPORTES
+http://50.7.66.234:8080/Victor6127/V6127/1092642
+
+#EXTINF:-1 group-title="LAYKA TV",GOL PERU
+http://50.7.66.234:8080/Victor6127/V6127/1123136
+
+#EXTINF:-1 group-title="LAYKA TV",LIGA 1 MAX
+http://50.7.66.234:8080/Victor6127/V6127/1151341
+
+#EXTINF:-1 group-title="LAYKA TV",LIGA 1
+http://50.7.66.234:8080/Victor6127/V6127/1151342
+
+#EXTINF:-1 group-title="LAYKA TV",CINEMA CLASSIC HORROR
+http://50.7.66.234:8080/Victor6127/V6127/1155106
+
+#EXTINF:-1 group-title="LAYKA TV",CINEMA DISNEY PIXAR
+http://50.7.66.234:8080/Victor6127/V6127/1155781
+
+#EXTINF:-1 group-title="LAYKA TV",CINEMA CIENCIA FICCIÓN
+http://50.7.66.234:8080/Victor6127/V6127/1147993
+
+#EXTINF:-1 group-title="LAYKA TV",CINEMA FAMILIAR
+http://50.7.66.234:8080/Victor6127/V6127/1156760
+
+#EXTINF:-1 group-title="LAYKA TV",CINE PANICO
+http://50.7.66.234:8080/Victor6127/V6127/7436
+
+#EXTINF:-1 group-title="LAYKA TV",CINE MARVEL STUDIOS
+http://50.7.66.234:8080/Victor6127/V6127/44728
+
+#EXTINF:-1 group-title="LAYKA TV",CINE MORBID
+http://50.7.66.234:8080/Victor6127/V6127/33364
+
+#EXTINF:-1 group-title="LAYKA TV",GARAGE TV
+http://50.7.66.234:8080/Victor6127/V6127/4016
+
+#EXTINF:-1 group-title="LAYKA TV",GARFIELD
+http://50.7.66.234:8080/Victor6127/V6127/18577
+
+#EXTINF:-1 group-title="LAYKA TV",DB SUPER
+http://50.7.66.234:8080/Victor6127/V6127/29406
+
+#EXTINF:-1 group-title="LAYKA TV",DB GT
+http://50.7.66.234:8080/Victor6127/V6127/44344
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0q7.png" group-title="LAYKA 4K", A&E HD
+http://181.189.243.254:8000/play/a0q7/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0q8.png" group-title="LAYKA 4K", AMC HD
+http://181.189.243.254:8000/play/a0q8/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pp.png" group-title="LAYKA 4K", AXN
+http://181.189.243.254:8000/play/a0pp/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0qe.png" group-title="LAYKA 4K", AZ CLICK HD
+http://181.189.243.254:8000/play/a0qe/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0q4.png" group-title="LAYKA 4K", ANIMAL PLANET
+http://181.189.243.254:8000/play/a0q4/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0nv.png" group-title="LAYKA 4K", ANTENA 3
+http://181.189.243.254:8000/play/a0nv/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pg.png" group-title="LAYKA 4K", AZ CORAZON
+http://181.189.243.254:8000/play/a0pg/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0s4.png" group-title="LAYKA 4K", AZ MUNDO
+http://181.189.243.254:8000/play/a0s4/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0r3.png" group-title="LAYKA 4K", BABY FIRST
+http://181.189.243.254:8000/play/a0r3/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0ns.png" group-title="LAYKA 4K", BABY TV
+http://181.189.243.254:8000/play/a0ns/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0op.png" group-title="LAYKA 4K", CARTOON NT HD
+http://181.189.243.254:8000/play/a0op/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0sl.png" group-title="LAYKA 4K", CINECANAL HD
+http://181.189.243.254:8000/play/a0sl/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0rs.png" group-title="LAYKA 4K", CANAL 3 - GUA
+http://181.189.243.254:8000/play/a0rs/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0rr.png" group-title="LAYKA 4K", CANAL 7 - GUA
+http://181.189.243.254:8000/play/a0rr/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0o7.png" group-title="LAYKA 4K", CNN INT
+http://181.189.243.254:8000/play/a0o7/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0ps.png" group-title="LAYKA 4K", CNNE
+http://181.189.243.254:8000/play/a0ps/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0p8.png" group-title="LAYKA 4K", CARTOON NETWORK
+http://181.189.243.254:8000/play/a0p8/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pa.png" group-title="LAYKA 4K", CARTOONITO
+http://181.189.243.254:8000/play/a0pa/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0on.png" group-title="LAYKA 4K", CLARO SPORTS
+http://181.189.243.254:8000/play/a0on/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0su.png" group-title="LAYKA 4K", COMEDY CENTRAL
+http://181.189.243.254:8000/play/a0su/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0qd.png" group-title="LAYKA 4K", DHE HD
+http://181.189.243.254:8000/play/a0qd/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0sr.png" group-title="LAYKA 4K", DISC THEATHER
+http://181.189.243.254:8000/play/a0sr/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0tb.png" group-title="LAYKA 4K", DISCOVERY CHANNEL HD
+http://181.189.243.254:8000/play/a0tb/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0tf.png" group-title="LAYKA 4K", DISCOVERY ID
+http://181.189.243.254:8000/play/a0tf/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0ob.png" group-title="LAYKA 4K", DISCOVERY KIDS
+http://181.189.243.254:8000/play/a0ob/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0ny.png" group-title="LAYKA 4K", DISCOVERY SCIENCE
+http://181.189.243.254:8000/play/a0ny/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0tc.png" group-title="LAYKA 4K", DISCOVERY WORLD
+http://181.189.243.254:8000/play/a0tc/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pb.png" group-title="LAYKA 4K", DISNEY JR
+http://181.189.243.254:8000/play/a0pb/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0q5.png" group-title="LAYKA 4K", E! ENTRET HD
+http://181.189.243.254:8000/play/a0q5/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0se.png" group-title="LAYKA 4K", ESPN
+http://181.189.243.254:8000/play/a0se/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0t4.png" group-title="LAYKA 4K", ESPN HD
+http://181.189.243.254:8000/play/a0t4/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0py.png" group-title="LAYKA 4K", ESPN +
+http://181.189.243.254:8000/play/a0py/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0sf.png" group-title="LAYKA 4K", ESPN 2
+http://181.189.243.254:8000/play/a0sf/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0t6.png" group-title="LAYKA 4K", ESPN 2 HD
+http://181.189.243.254:8000/play/a0t6/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0rb.png" group-title="LAYKA 4K", ESPN 3
+http://181.189.243.254:8000/play/a0rb/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0t5.png" group-title="LAYKA 4K", ESPN 3 HD
+http://181.189.243.254:8000/play/a0t5/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0rc.png" group-title="LAYKA 4K", FOX SPORTS 2
+http://181.189.243.254:8000/play/a0rc/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pm.png" group-title="LAYKA 4K", FOX SPORT 3
+http://181.189.243.254:8000/play/a0pm/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0sp.png" group-title="LAYKA 4K", FOX SPORTS 2 HD
+http://181.189.243.254:8000/play/a0sp/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0t7.png" group-title="LAYKA 4K", FOX SPORTS 3 HD
+http://181.189.243.254:8000/play/a0t7/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0qa.png" group-title="LAYKA 4K", FX HD
+http://181.189.243.254:8000/play/a0qa/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0q6.png" group-title="LAYKA 4K", FILM & ARTS HD
+http://181.189.243.254:8000/play/a0q6/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pu.png" group-title="LAYKA 4K", FRANCE24
+http://181.189.243.254:8000/play/a0pu/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0rh.png" group-title="LAYKA 4K", GOLDEN
+http://181.189.243.254:8000/play/a0rh/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0oc.png" group-title="LAYKA 4K", GOLDEN PREMIERE HD
+http://181.189.243.254:8000/play/a0oc/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0od.png" group-title="LAYKA 4K", GOLDEN PREMIERE 2
+http://181.189.243.254:8000/play/a0od/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0r7.png" group-title="LAYKA 4K", H2
+http://181.189.243.254:8000/play/a0r7/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0ou.png" group-title="LAYKA 4K", HBO FAMILY HD
+http://181.189.243.254:8000/play/a0ou/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0or.png" group-title="LAYKA 4K", HBO HD
+http://181.189.243.254:8000/play/a0or/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0ot.png" group-title="LAYKA 4K", HBO PLUS HD
+http://181.189.243.254:8000/play/a0ot/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0ov.png" group-title="LAYKA 4K", HBO XTREME
+http://181.189.243.254:8000/play/a0ov/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0os.png" group-title="LAYKA 4K", HBO 2 HD
+http://181.189.243.254:8000/play/a0os/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0st.png" group-title="LAYKA 4K", HOLA! TV HD
+http://181.189.243.254:8000/play/a0st/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0rg.png" group-title="LAYKA 4K", HTV
+http://181.189.243.254:8000/play/a0rg/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0px.png" group-title="LAYKA 4K", HISTORY CHANNEL HD
+http://181.189.243.254:8000/play/a0px/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0ss.png" group-title="LAYKA 4K", HOME & HEALTH
+http://181.189.243.254:8000/play/a0ss/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0nx.png" group-title="LAYKA 4K", HOME GARDEN LAT
+http://181.189.243.254:8000/play/a0nx/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pl.png" group-title="LAYKA 4K", LIFE TIME
+http://181.189.243.254:8000/play/a0pl/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pz.png" group-title="LAYKA 4K", MTV
+http://181.189.243.254:8000/play/a0pz/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pn.png" group-title="LAYKA 4K", MTV Hits
+http://181.189.243.254:8000/play/a0pn/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0nu.png" group-title="LAYKA 4K", MAS CHIC
+http://181.189.243.254:8000/play/a0nu/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0og.png" group-title="LAYKA 4K", MULTIMEDIOS
+http://181.189.243.254:8000/play/a0og/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0t8.png" group-title="LAYKA 4K", NAT GEO
+http://181.189.243.254:8000/play/a0t8/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pk.png" group-title="LAYKA 4K", NATIONAL GEOGRAPHIC
+http://181.189.243.254:8000/play/a0pk/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0p9.png" group-title="LAYKA 4K", NICK JR
+http://181.189.243.254:8000/play/a0p9/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0so.png" group-title="LAYKA 4K", NICK SIM HD
+http://181.189.243.254:8000/play/a0so/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0t9.png" group-title="LAYKA 4K", PARAMOUNT HD
+http://181.189.243.254:8000/play/a0t9/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0td.png" group-title="LAYKA 4K", PASIONES HD
+http://181.189.243.254:8000/play/a0td/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0ow.png" group-title="LAYKA 4K", PLAYBOY
+http://181.189.243.254:8000/play/a0ow/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0r5.png" group-title="LAYKA 4K", RCN NOVELAS
+http://181.189.243.254:8000/play/a0r5/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0sk.png" group-title="LAYKA 4K", SONY HD
+http://181.189.243.254:8000/play/a0sk/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0ph.png" group-title="LAYKA 4K", SPACE
+http://181.189.243.254:8000/play/a0ph/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0qc.png" group-title="LAYKA 4K", SONY MOVIES
+http://181.189.243.254:8000/play/a0qc/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0q2.png" group-title="LAYKA 4K", STUDIO UNIVERSAL
+http://181.189.243.254:8000/play/a0q2/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0s9.png" group-title="LAYKA 4K", SYFY
+http://181.189.243.254:8000/play/a0s9/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pj.png" group-title="LAYKA 4K", TBS
+http://181.189.243.254:8000/play/a0pj/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0ri.png" group-title="LAYKA 4K", TCM
+http://181.189.243.254:8000/play/a0ri/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0sd.png" group-title="LAYKA 4K", TLC
+http://181.189.243.254:8000/play/a0sd/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0sq.png" group-title="LAYKA 4K", TNT HD
+http://181.189.243.254:8000/play/a0sq/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0ta.png" group-title="LAYKA 4K", TNT SERIES HD
+http://181.189.243.254:8000/play/a0ta/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0nw.png" group-title="LAYKA 4K", TVCHILE
+http://181.189.243.254:8000/play/a0nw/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0q1.png" group-title="LAYKA 4K", TEEN NICK HD
+http://181.189.243.254:8000/play/a0q1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pf.png" group-title="LAYKA 4K", TELEMUNDO
+http://181.189.243.254:8000/play/a0pf/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0q9.png" group-title="LAYKA 4K", TELEMUNDO HD
+http://181.189.243.254:8000/play/a0q9/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0s3.png" group-title="LAYKA 4K", TOONCAST
+http://181.189.243.254:8000/play/a0s3/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pe.png" group-title="LAYKA 4K", TRU TV
+http://181.189.243.254:8000/play/a0pe/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0v2.png" group-title="LAYKA 4K", UNIVERSAL CINEMA HD
+http://181.189.243.254:8000/play/a0v2/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0t1.png" group-title="LAYKA 4K", UNIVERSAL COMEDY HD
+http://181.189.243.254:8000/play/a0t1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0t0.png" group-title="LAYKA 4K", UNIVERSAL CRIME HD
+http://181.189.243.254:8000/play/a0t0/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0ui.png" group-title="LAYKA 4K", UNIVERSAL PREMIERE HD
+http://181.189.243.254:8000/play/a0ui/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0uj.png" group-title="LAYKA 4K", UNIVERSAL PREMIERE O HD
+http://181.189.243.254:8000/play/a0uj/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0sz.png" group-title="LAYKA 4K", UNIVERSAL REALITY HD
+http://181.189.243.254:8000/play/a0sz/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0v0.png" group-title="LAYKA 4K", UNIVISION
+http://181.189.243.254:8000/play/a0v0/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0tk.png" group-title="LAYKA 4K", WARNER HD
+http://181.189.243.254:8000/play/a0tk/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsF48msc/aztv.jpg" group-title="LAYKA 4K", AZTV
+http://animezonetv.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tJwhTWRV/cnetwork.jpg" group-title="LAYKA 4K", CARTOON NETWORK
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhN74XmB/Cartonito.jpg" group-title="LAYKA 4K", CARTOONITO
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pLptVZjL/dreiko.jpg" group-title="LAYKA 4K", DREIKO TV
+https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Nf26nJb8/ENERGEEK.jpg" group-title="LAYKA 4K", ENERGEEK
+https://wifiexpert-1.energeek.cl/energeek/radio/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7LMQrLq4/fmfusion.jpg" group-title="LAYKA 4K", FM FUSION
+https://s2.tvdatta.com:3307/hybrid/play.m3u8?WebM3UCL
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C9DpwyC/FS1.png" group-title="LAYKA 4K", FOX SPORTS 2
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index_154.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNBRbqTz/FCHA.png" group-title="LAYKA 4K", FULL CHANNEL
+https://cdn.streamhispanatv.net:3845/live/fullchannelgtlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fcRj2P9/Kde.png" group-title="LAYKA 4K", KANADE TV
+https://stream.ichibantv.com:3612/live/kanadetvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DyJjy67B/loco.jpg" group-title="LAYKA 4K", LOCOMOTION
+http://51.222.85.85:81/hls/loco/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/K8wh1M7r/platv.jpg" group-title="LAYKA 4K", PLANETA TV
+https://scl.edge.grupoz.cl/music/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tzdL2nc/platv-kids.jpg" group-title="LAYKA 4K", PLANETA TV KIDS
+https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w1239999572.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLttgSLD/pjunior.jpg" group-title="LAYKA 4K", PLANETA TV JUNIOR
+https://deaplaneta-planetakidz-1-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1R26D0P8/PLAMOBIES.jpg" group-title="LAYKA 4K", PLANETA TV MOVIES
+https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0q8.png" group-title="LAYKA 4K", AMC HD
+http://181.189.243.254:8000/play/a0q8/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pp.png" group-title="LAYKA 4K", AXN
+http://181.189.243.254:8000/play/a0pp/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0qe.png" group-title="LAYKA 4K", AZ CLICK HD
+http://181.189.243.254:8000/play/a0qe/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0q4.png" group-title="LAYKA 4K", ANIMAL PLANET
+http://181.189.243.254:8000/play/a0q4/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0nv.png" group-title="LAYKA 4K", ANTENA 3
+http://181.189.243.254:8000/play/a0nv/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pg.png" group-title="LAYKA 4K", AZ CORAZON
+http://181.189.243.254:8000/play/a0pg/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0s4.png" group-title="LAYKA 4K", AZ MUNDO
+http://181.189.243.254:8000/play/a0s4/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0r3.png" group-title="LAYKA 4K", BABY FIRST
+http://181.189.243.254:8000/play/a0r3/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0ns.png" group-title="LAYKA 4K", BABY TV
+http://181.189.243.254:8000/play/a0ns/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0op.png" group-title="LAYKA 4K", CARTOON NT HD
+http://181.189.243.254:8000/play/a0op/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Animal Planet HD
+http://186.101.207.117:9955/play/a0cg/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,AMC HD
+http://186.101.207.117:9955/play/a0ck/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,AXN HD
+http://186.101.207.117:9955/play/a0bv/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,CARTOON NT HD
+http://186.101.207.117:9955/play/a0bd/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Canal Claro HD
+http://186.101.207.117:9955/play/a0bc/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Claro Sports 1 HD
+http://186.101.207.117:9955/play/a0ba/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Claro Sports 2 HD
+http://186.101.207.117:9955/play/a0bb/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Comedy Central HD
+http://186.101.207.117:9955/play/a0d1/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,DHE HD
+http://186.101.207.117:9955/play/a0cp/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Discovery Channel HD
+http://186.101.207.117:9955/play/a0c6/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Discovery Kids HD
+http://186.101.207.117:9955/play/a0b6/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Discovery World HD
+http://186.101.207.117:9955/play/a0c7/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,E! Entertairment HD
+http://186.101.207.117:9955/play/a0ch/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,ESPN 2 HD
+http://186.101.207.117:9955/play/a0c1/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,ESPN 3 HD
+http://186.101.207.117:9955/play/a0c0/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,ESPN 4 HD
+http://186.101.207.117:9955/play/a0bu/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,ESPN HD
+http://186.101.207.117:9955/play/a0bz/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,FOX SPORTS 2 HD
+http://186.101.207.117:9955/play/a0cw/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,FOX SPORTS 3 HD
+http://186.101.207.117:9955/play/a0c2/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,FX HD
+http://186.101.207.117:9955/play/a0cm/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Film & arts HD
+http://186.101.207.117:9955/play/a0ci/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Golden Premiere 2 HD
+http://186.101.207.117:9955/play/a0b9/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Golden Premiere HD
+http://186.101.207.117:9955/play/a0b8/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Golf Channel HD
+http://186.101.207.117:9955/play/a0cs/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,HBO HD
+http://186.101.207.117:9955/play/a0be/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,HBO Plus HD
+http://186.101.207.117:9955/play/a0bg/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,HBO2 HD
+http://186.101.207.117:9955/play/a0bf/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Home & Health HD
+http://186.101.207.117:9955/play/a0cz/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,RCN Novelas
+http://186.101.207.117:9955/play/a0bl/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,STAR CHANNEL HD
+http://186.101.207.117:9955/play/a0bq/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Sony Movies HD
+http://186.101.207.117:9955/play/a0co/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Studio Universal HD
+http://186.101.207.117:9955/play/a0cf/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,TD+2 HD CR
+http://186.101.207.117:9955/play/a0b4/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,TD+HD CR
+http://186.101.207.117:9955/play/a0b3/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,TNT HD
+http://186.101.207.117:9955/play/a0cx/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,TNT Series HD
+http://186.101.207.117:9955/play/a0c5/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Teen Nick HD
+http://186.101.207.117:9955/play/a0ce/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Telemundo HD
+http://186.101.207.117:9955/play/a0cl/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Tigo Sports HD
+http://186.101.207.117:9955/play/a0cu/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,UNIVERSAL CINEMA ESTE HD
+http://186.101.207.117:9955/play/a0cb/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,UNIVERSAL COMEDY HD
+http://186.101.207.117:9955/play/a0d8/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,UNIVERSAL CRIME HD
+http://186.101.207.117:9955/play/a0d7/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,UNIVERSAL PREMIERE HD
+http://186.101.207.117:9955/play/a0d4/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,UNIVERSAL PREMIERE O HD
+http://186.101.207.117:9955/play/a0d5/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,UNIVERSAL REALITY HD
+http://186.101.207.117:9955/play/a0d6/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Univision HD
+http://186.101.207.117:9955/play/a0c9/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,WARNER HD
+http://186.101.207.117:9955/play/a0br/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,A&E HD
+http://181.78.24.187:8006/play/a002/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,AMC HD
+http://181.78.24.187:8006/play/a06j/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,AXN HD
+http://181.78.24.187:8006/play/a005/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Animal Planet HD
+http://181.78.24.187:8006/play/a088/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Canal 24 Horas HD
+http://181.78.24.187:8006/play/a0b6/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Canal Institucional HD
+http://181.78.24.187:8006/play/a0b5/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Caracol HD
+http://181.78.24.187:8006/play/a0bb/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Cinecanal HD
+http://181.78.24.187:8006/play/a06i/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,City TV
+http://181.78.24.187:8006/play/a0c5/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,DISCOVERY TURBO LISTA DE EMERGENCIA
+http://181.78.24.187:8006/play/a09m/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Discovery H&H HD
+http://181.78.24.187:8006/play/a085/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Discovery HD
+http://181.78.24.187:8006/play/a089/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Discovery Kids HD
+http://181.78.24.187:8006/play/a084/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Discovery Theater HD
+http://181.78.24.187:8006/play/a08d/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Discovery World HD
+http://181.78.24.187:8006/play/a087/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Disney HD
+http://181.78.24.187:8006/play/a066/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Disney Junior HD
+http://181.78.24.187:8006/play/a09i/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,E! HD
+http://181.78.24.187:8006/play/a06n/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,ESPN 2 HD
+http://181.78.24.187:8006/play/a006/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,ESPN 3 HD
+http://181.78.24.187:8006/play/a067/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,ESPN 4 HD
+http://181.78.24.187:8006/play/a06e/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,ESPN EXTRA HD
+http://181.78.24.187:8006/play/a0b2/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,ESPN HD
+http://181.78.24.187:8006/play/a09w/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,El Gourmet HD
+http://181.78.24.187:8006/play/a06a/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,FOX Sports 2 HD
+http://181.78.24.187:8006/play/a06f/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,FX HD
+http://181.78.24.187:8006/play/a06g/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Fox Sports 1 HD
+http://181.78.24.187:8006/play/a0ag/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Fox Sports 3 HD
+http://181.78.24.187:8006/play/a068/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,France 24 HD
+http://181.78.24.187:8006/play/a0b9/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Golden HD
+http://181.78.24.187:8006/play/a06l/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,History 2 HD
+http://181.78.24.187:8006/play/a06q/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,History Channel HD
+http://181.78.24.187:8006/play/a001/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,ID HD
+http://181.78.24.187:8006/play/a08c/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Las Estrellas HD
+http://181.78.24.187:8006/play/a09e/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,MÆsChic
+http://181.78.24.187:8006/play/a0aw/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Nat Geo HD
+http://181.78.24.187:8006/play/a06h/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,RCN HD
+http://181.78.24.187:8006/play/a0bk/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,STAR CHANNEL HD
+http://181.78.24.187:8006/play/a06c/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Sony HD
+http://181.78.24.187:8006/play/a003/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Studio Universal HD
+http://181.78.24.187:8006/play/a06k/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Sun Channel HD
+http://181.78.24.187:8006/play/a06b/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,SyFy
+http://181.78.24.187:8006/play/a0c0/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,TELECAFE - CANAL-81
+http://181.78.24.187:8006/play/a0a0/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,TLC
+http://181.78.24.187:8006/play/a0c6/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,TNT Series HD
+http://181.78.24.187:8006/play/a0b3/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Telehit HD
+http://181.78.24.187:8006/play/a06m/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,UNIVERSAL CHANNEL HD
+http://181.78.24.187:8006/play/a06d/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Warner Channel HD
+http://181.78.24.187:8006/play/a004/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Win Sports HD
+http://181.78.24.187:8006/play/a007/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,ZOOM - CANAL-83
+http://181.78.24.187:8006/play/a0a4/index.m3u8
+
+#EXTINF:-1 group-title="LAYKA 4K" ,AE Mundo
+http://181.78.27.188:5350/play/a00y
+
+#EXTINF:-1 group-title="LAYKA 4K" ,AXN
+http://181.78.27.188:5350/play/a0vb
+
+#EXTINF:-1 group-title="LAYKA 4K" ,AXN CARD00
+http://181.78.27.188:5350/play/a091
+
+#EXTINF:-1 group-title="LAYKA 4K" ,AXN CARD01
+http://181.78.27.188:5350/play/a0v4
+
+#EXTINF:-1 group-title="LAYKA 4K" ,America TV PY
+http://181.78.27.188:5350/play/a01l
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Animal Planet
+http://181.78.27.188:5350/play/a00p
+
+#EXTINF:-1 group-title="LAYKA 4K" ,BabyFirst
+http://181.78.27.188:5350/play/a0mg
+
+#EXTINF:-1 group-title="LAYKA 4K" ,C9N
+http://181.78.27.188:5350/play/a022
+
+#EXTINF:-1 group-title="LAYKA 4K" ,CNN Chile
+http://181.78.27.188:5350/play/a036
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Canal Estrellas
+http://181.78.27.188:5350/play/a012
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Cartoon Network
+http://181.78.27.188:5350/play/a03a
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Cinecanal
+http://181.78.27.188:5350/play/a030
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Cinemax
+http://181.78.27.188:5350/play/a002
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Claro Cinema
+http://181.78.27.188:5350/play/a00d
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Discovery Channel
+http://181.78.27.188:5350/play/a00o
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Discovery ID
+http://181.78.27.188:5350/play/a017
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Discovery Kids
+http://181.78.27.188:5350/play/a02b
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Discovery Turbo
+http://181.78.27.188:5350/play/a00f
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Disney Channel
+http://181.78.27.188:5350/play/a00n
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Disney Jr
+http://181.78.27.188:5350/play/a02s
+
+#EXTINF:-1 group-title="LAYKA 4K" ,E Entertainment
+http://181.78.27.188:5350/play/a00r
+
+#EXTINF:-1 group-title="LAYKA 4K" ,ESPN
+http://181.78.27.188:5350/play/a00u
+
+#EXTINF:-1 group-title="LAYKA 4K" ,ESPN 2
+http://181.78.27.188:5350/play/a02u
+
+#EXTINF:-1 group-title="LAYKA 4K" ,ESPN 2 Latin
+http://181.78.27.188:5350/play/a00t
+
+#EXTINF:-1 group-title="LAYKA 4K" ,ESPN 3
+http://181.78.27.188:5350/play/a00h
+
+#EXTINF:-1 group-title="LAYKA 4K" ,ESPN CO
+http://181.78.27.188:5350/play/a023
+
+#EXTINF:-1 group-title="LAYKA 4K" ,ESPN4
+http://181.78.27.188:5350/play/a01h
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Enlace
+http://181.78.27.188:5350/play/a03f
+
+#EXTINF:-1 group-title="LAYKA 4K" ,FX
+http://181.78.27.188:5350/play/a006
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Fox Sports 2
+http://181.78.27.188:5350/play/a013
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Fox Sports 3
+http://181.78.27.188:5350/play/a014
+
+#EXTINF:-1 group-title="LAYKA 4K" ,HBO
+http://181.78.27.188:5350/play/a001
+
+#EXTINF:-1 group-title="LAYKA 4K" ,HBO 2
+http://181.78.27.188:5350/play/a02o
+
+#EXTINF:-1 group-title="LAYKA 4K" ,HBO Family
+http://181.78.27.188:5350/play/a02r
+
+#EXTINF:-1 group-title="LAYKA 4K" ,HBO Plus
+http://181.78.27.188:5350/play/a02p
+
+#EXTINF:-1 group-title="LAYKA 4K" ,HBO XTREME SD
+http://181.78.27.188:5350/play/a02q
+
+#EXTINF:-1 group-title="LAYKA 4K" ,History Channel
+http://181.78.27.188:5350/play/a02z
+
+#EXTINF:-1 group-title="LAYKA 4K" ,HomeandHealth
+http://181.78.27.188:5350/play/a01c
+
+#EXTINF:-1 group-title="LAYKA 4K" ,I-Sat
+http://181.78.27.188:5350/play/a0va
+
+#EXTINF:-1 group-title="LAYKA 4K" ,La Tele
+http://181.78.27.188:5350/play/a00j
+
+#EXTINF:-1 group-title="LAYKA 4K" ,NPY
+http://181.78.27.188:5350/play/a024
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Nat Geo
+http://181.78.27.188:5350/play/a02y
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Nick Jr
+http://181.78.27.188:5350/play/a00e
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Nickelodeon
+http://181.78.27.188:5350/play/a02w
+
+#EXTINF:-1 group-title="LAYKA 4K" ,PARAVISION
+http://181.78.27.188:5350/play/a021
+
+#EXTINF:-1 group-title="LAYKA 4K" ,ParaguayTV
+http://181.78.27.188:5350/play/a01o
+
+#EXTINF:-1 group-title="LAYKA 4K" ,RCN Novelas
+http://181.78.27.188:5350/play/a016
+
+#EXTINF:-1 group-title="LAYKA 4K" ,SNT
+http://181.78.27.188:5350/play/a03d
+
+#EXTINF:-1 group-title="LAYKA 4K" ,STAR CHANNEL
+http://181.78.27.188:5350/play/a037
+
+#EXTINF:-1 group-title="LAYKA 4K" ,SURTV
+http://181.78.27.188:5350/play/a025
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Sony
+http://181.78.27.188:5350/play/a003
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Space
+http://181.78.27.188:5350/play/a005
+
+#EXTINF:-1 group-title="LAYKA 4K" ,TBS
+http://181.78.27.188:5350/play/a01a
+
+#EXTINF:-1 group-title="LAYKA 4K" ,TCM
+http://181.78.27.188:5350/play/a038
+
+#EXTINF:-1 group-title="LAYKA 4K" ,TLC
+http://181.78.27.188:5350/play/a010
+
+#EXTINF:-1 group-title="LAYKA 4K" ,TNT
+http://181.78.27.188:5350/play/a03b
+
+#EXTINF:-1 group-title="LAYKA 4K" ,TV CAMARA
+http://181.78.27.188:5350/play/a00m
+
+#EXTINF:-1 group-title="LAYKA 4K" ,TVE
+http://181.78.27.188:5350/play/a0oy
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Telefe
+http://181.78.27.188:5350/play/a00b
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Telefuturo
+http://181.78.27.188:5350/play/a03e
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Telemundo
+http://181.78.27.188:5350/play/a015
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Trece
+http://181.78.27.188:5350/play/a01j
+
+#EXTINF:-1 group-title="LAYKA 4K" ,TyC
+http://181.78.27.188:5350/play/a00w
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Universal
+http://181.78.27.188:5350/play/a031
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Universal Cinema SD
+http://181.78.27.188:5350/play/a0kp
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Universal Comedy SD
+http://181.78.27.188:5350/play/a0kq
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Universal Premiere SD
+http://181.78.27.188:5350/play/a0ko
+
+#EXTINF:-1 group-title="LAYKA 4K" ,Warner
+http://181.78.27.188:5350/play/a00q
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-tv-plus.png" group-title="PERU",
+PERU - TV PLUS
+http://50.7.66.234:8080/Victor6127/V6127/54853
+
+#EXTINF:-1
+tvg-logo="http://descargas.podzone.net/logos/-ATV.png" group-title="PERU", PERU - ATV
+http://50.7.66.234:8080/Victor6127/V6127/8333
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ATV.png" group-title="PERU", PERU - ATV PLUS
+http://50.7.66.234:8080/Victor6127/V6127/7449
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-latina.png" group-title="PERU", PERU- LATINA FHD
+http://50.7.66.234:8080/Victor6127/V6127/1087195
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-peru-magico.png" group-title="PERU", PERU - PERU MAGICO
+http://50.7.66.234:8080/Victor6127/V6127/8323
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-america-tv.png" group-title="PERU", PERU- AMERICA TV FHD
+http://50.7.66.234:8080/Victor6127/V6127/1087194
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ATV.png" group-title="PERU", PERU - ATV
+http://50.7.66.234:8080/Victor6127/V6127/8333
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ATV.png" group-title="PERU", PERU - ATV PLUS
+http://50.7.66.234:8080/Victor6127/V6127/7449
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-latina.png" group-title="PERU", PERU- LATINA FHD
+http://50.7.66.234:8080/Victor6127/V6127/1087195
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-peru-magico.png" group-title="PERU", PERU - PERU MAGICO
+http://50.7.66.234:8080/Victor6127/V6127/8323
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-gol-peru.png" group-title="PERU", PERU - GOL PERU FHD
+http://50.7.66.234:8080/Victor6127/V6127/1123136
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-gol-peru.png" group-title="PERU", PERU - GOL PERU SD
+http://50.7.66.234:8080/Victor6127/V6127/8329
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-liga-1.png" group-title="PERU", PR - LIGA1
+http://50.7.66.234:8080/Victor6127/V6127/1151342
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-liga-1.png" group-title="PERU", PE - LIGA 1 MAX
+http://50.7.66.234:8080/Victor6127/V6127/1151341
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos2/24-7-elchavo-del-ocho.png" group-title="CANALES 24/7", 24/7 EL CHAVO DEL OCHO
+http://50.7.66.234:8080/Victor6127/V6127/18576
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos2/24-7-los-simpson.png" group-title="CANALES 24/7", 24/7 - LOS SIMPSON HD
+http://50.7.66.234:8080/Victor6127/V6127/29412
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos2/24-7-tom-y-jerry.png" group-title="CANALES 24/7", 24/7 - TOM Y JERRY
+http://50.7.66.234:8080/Victor6127/V6127/46490
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos2/24-7-garfield.png" group-title="CANALES 24/7", 24/7 - GARFIELD
+http://50.7.66.234:8080/Victor6127/V6127/18577
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos2/24-7-dragon-ball-super.png" group-title="CANALES 24/7", 24/7 - DRAGON BALL SUPER
+http://50.7.66.234:8080/Victor6127/V6127/29406
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos2/24-7-futurama.png" group-title="CANALES 24/7", 24/7 - FUTURAMA
+http://50.7.66.234:8080/Victor6127/V6127/29407
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos2/24-7-looney-tunes.png" group-title="CANALES 24/7", 24/7 - LOONEY TUNES
+http://50.7.66.234:8080/Victor6127/V6127/29409
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos2/24-7-dragon-ball-gt.png" group-title="CANALES 24/7", 24/7 - DRAGON BALL GT
+http://50.7.66.234:8080/Victor6127/V6127/44344
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos2/24-7-alf.png" group-title="CANALES 24/7", 24/7 - ALF
+http://50.7.66.234:8080/Victor6127/V6127/44721
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos2/24-7-que-hay-de-nuevo-scooby-doo.png" group-title="CANALES 24/7", 24/7 - QUE HAY DE NUEVO SCOOBY DOO
+http://50.7.66.234:8080/Victor6127/V6127/44723
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos2/24-7-malcom.png" group-title="CANALES 24/7", 24/7 - MALCOM
+http://50.7.66.234:8080/Victor6127/V6127/44818
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos2/24-7-the-big-bang-theory.png" group-title="CANALES 24/7", 24/7 - THE BIG BANG THEORY
+http://50.7.66.234:8080/Victor6127/V6127/46491
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos2/24-7-la-vaca-y-el-pollito.png" group-title="CANALES 24/7", 24/7 - LA VACA Y EL POLLITO
+http://50.7.66.234:8080/Victor6127/V6127/1140316
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos2/24-7-los-picapiedras.png" group-title="CANALES 24/7", 24/7 - LOS PICAPIEDRAS
+http://50.7.66.234:8080/Victor6127/V6127/1141388
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos2/24-7-two-and-a-half-men.png" group-title="CANALES 24/7", 24/7 - TWO AND A HALF MEN
+http://50.7.66.234:8080/Victor6127/V6127/1147194
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-HBO.png" group-title="• CINE", CINE - HBO FHD
+http://50.7.66.234:8080/Victor6127/V6127/4112
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-HBO.png" group-title="• CINE", CINE - HBO
+http://50.7.66.234:8080/Victor6127/V6127/1155792
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-HBO-2.png" group-title="• CINE", CINE - HBO 2
+http://50.7.66.234:8080/Victor6127/V6127/1155794
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-HBO-2.png" group-title="• CINE", CINE - HBO 2 FHD
+http://50.7.66.234:8080/Victor6127/V6127/4095
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-HBO-plus.png" group-title="• CINE", CINE - HBO PLUS FHD
+http://50.7.66.234:8080/Victor6127/V6127/4109
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-HBO-plus.png" group-title="• CINE", CINE - HBO PLUS +
+http://50.7.66.234:8080/Victor6127/V6127/4003
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-HBO-signature.png" group-title="• CINE", CINE - HBO SIGNATURE
+http://50.7.66.234:8080/Victor6127/V6127/1155796
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-HBO-xtream.png" group-title="• CINE", CINE - HBO XTREME FHD
+http://50.7.66.234:8080/Victor6127/V6127/8226
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-HBO-xtream.png" group-title="• CINE", CINE - HBO XTREME
+http://50.7.66.234:8080/Victor6127/V6127/44341
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-HBO-pop.png" group-title="• CINE", CINE - HBO POP FHD
+http://50.7.66.234:8080/Victor6127/V6127/8246
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-HBO-pop.png" group-title="• CINE", CINE - HBO POP
+http://50.7.66.234:8080/Victor6127/V6127/47445
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-HBO-family.png" group-title="• CINE", CINE - HBO FAMILY
+http://50.7.66.234:8080/Victor6127/V6127/4017
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-HBO-mundi.png" group-title="• CINE", CINE - HBO MUNDI
+http://50.7.66.234:8080/Victor6127/V6127/1143815
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-TNT.png" group-title="• CINE", CINE - TNT FHD
+http://50.7.66.234:8080/Victor6127/V6127/4103
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-TNT.png" group-title="• CINE", CINE - TNT
+http://50.7.66.234:8080/Victor6127/V6127/4010
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-TNT-series.png" group-title="• CINE", CINE - TNT SERIES FHD
+http://50.7.66.234:8080/Victor6127/V6127/4050
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-TNT-series.png" group-title="• CINE", CINE - TNT SERIES
+http://50.7.66.234:8080/Victor6127/V6127/1156004
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-star-channel.png" group-title="• CINE", CINE - STAR CHANNEL FHD
+http://50.7.66.234:8080/Victor6127/V6127/4022
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-star-channel.png" group-title="• CINE", CINE - STAR CHANNEL
+http://50.7.66.234:8080/Victor6127/V6127/4121
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-cinecanal.png" group-title="• CINE", CINE - CINECANAL FHD
+http://50.7.66.234:8080/Victor6127/V6127/4068
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-cinecanal.png" group-title="• CINE", CINE - CINECANAL
+http://50.7.66.234:8080/Victor6127/V6127/1155785
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-sony.png" group-title="• CINE", CINE - SONY FHD
+http://50.7.66.234:8080/Victor6127/V6127/4048
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-sony.png" group-title="• CINE", CINE - SONY
+http://50.7.66.234:8080/Victor6127/V6127/1155800
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-sony-movies.png" group-title="• CINE", CINE - SONY MOVIES
+http://50.7.66.234:8080/Victor6127/V6127/1143816
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-paramount.png" group-title="• CINE", CINE - PARAMOUNT FHD
+http://50.7.66.234:8080/Victor6127/V6127/4065
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-paramount.png" group-title="• CINE", CINE - PARAMOUNT
+http://50.7.66.234:8080/Victor6127/V6127/1155799
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-AMC.png" group-title="• CINE", CINE - AMC FHD
+http://50.7.66.234:8080/Victor6127/V6127/4085
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-AMC.png" group-title="• CINE", CINE - AMC
+http://50.7.66.234:8080/Victor6127/V6127/4118
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-space.png" group-title="• CINE", CINE - SPACE FHD
+http://50.7.66.234:8080/Victor6127/V6127/4099
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-I-SAT.png" group-title="• CINE", CINE - I - SAT FHD
+http://50.7.66.234:8080/Victor6127/V6127/4098
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-I-SAT.png" group-title="• CINE", CINE - I-SAT
+http://50.7.66.234:8080/Victor6127/V6127/1155798
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-AyE.png" group-title="• CINE", CINE - A&E FHD
+http://50.7.66.234:8080/Victor6127/V6127/4037
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-AyE.png" group-title="• CINE", CINE - A&E
+http://50.7.66.234:8080/Victor6127/V6127/1156013
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-AXN.png" group-title="• CINE", CINE - AXN FHD
+http://50.7.66.234:8080/Victor6127/V6127/4038
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-AXN.png" group-title="• CINE", CINE - AXN
+http://50.7.66.234:8080/Victor6127/V6127/1155784
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos2/-CINEMAX.png" group-title="• CINE", CINE - CINEMAX FHD
+http://50.7.66.234:8080/Victor6127/V6127/4110
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos2/-CINEMAX.png" group-title="• CINE", CINE - CINEMAX
+http://50.7.66.234:8080/Victor6127/V6127/1068350
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-FX.png" group-title="• CINE", CINE - FX FHD
+http://50.7.66.234:8080/Victor6127/V6127/4044
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-FX.png" group-title="• CINE", CINE - FX
+http://50.7.66.234:8080/Victor6127/V6127/1155789
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-warner.png" group-title="• CINE", CINE - WARNER FHD
+http://50.7.66.234:8080/Victor6127/V6127/4053
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-warner.png" group-title="• CINE", CINE - WARNER
+http://50.7.66.234:8080/Victor6127/V6127/1155808
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-SYFY.png" group-title="• CINE", CINE - SYFY FHD
+http://50.7.66.234:8080/Victor6127/V6127/4049
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-SYFY.png" group-title="• CINE", CINE - SYFY
+http://50.7.66.234:8080/Victor6127/V6127/3958
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-TCM.png" group-title="• CINE", CINE - TCM
+http://50.7.66.234:8080/Victor6127/V6127/1155806
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-golden.png" group-title="• CINE", CINE - GOLDEN
+http://50.7.66.234:8080/Victor6127/V6127/1155790
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-golden-edge.png" group-title="• CINE", CINE - GOLDEN EDGE
+http://50.7.66.234:8080/Victor6127/V6127/1155791
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-golden-premiere.png" group-title="• CINE", CINE - GOLDEN PREMIERE FHD
+http://50.7.66.234:8080/Victor6127/V6127/4091
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-de-pelicula-plus.png" group-title="• CINE", CINE - DE PELICULA PLUS
+http://50.7.66.234:8080/Victor6127/V6127/1155788
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-de-pelicula.png" group-title="• CINE", CINE - DE PELICULA
+http://50.7.66.234:8080/Victor6127/V6127/1155786
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-sundance.png" group-title="• CINE", CINE - SUNDANCE TV
+http://50.7.66.234:8080/Victor6127/V6127/4101
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-cine-latino.png" group-title="• CINE", CINE - CINE LATINO
+http://50.7.66.234:8080/Victor6127/V6127/4136
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-cinema-dinamita.png" group-title="• CINE", CINE - CINEMA DINAMITA
+http://50.7.66.234:8080/Victor6127/V6127/4142
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-claro-cinema.png" group-title="• CINE", CINE - CLARO CINEMA
+http://50.7.66.234:8080/Victor6127/V6127/4145
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-cine-mania.png" group-title="• CINE", CINE - CINE MANIA
+http://50.7.66.234:8080/Victor6127/V6127/1148843
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-cinema-classic-horror.png" group-title="• CINE", CINE - CINEMA CLASSIC HORROR
+http://50.7.66.234:8080/Victor6127/V6127/1155106
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-cinema-disney-pixar.png" group-title="• CINE", CINE - CINEMA DISNEY PIXAR
+http://50.7.66.234:8080/Victor6127/V6127/1155781
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-cine-estelar.png" group-title="• CINE", CINE - CINE ESTELAR
+http://50.7.66.234:8080/Victor6127/V6127/1156007
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-cinema-ciencia-ficcion.png" group-title="• CINE", CINE - CINEMA CIENCIA FICCION
+http://50.7.66.234:8080/Victor6127/V6127/1147993
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos2/-CINE-FAMILIA.png" group-title="• CINE", CINE - CINE FAMILIA
+http://50.7.66.234:8080/Victor6127/V6127/1156760
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-universal-channel.png" group-title="• CINE", CINE - UNIVERSAL CHANNEL FHD
+http://50.7.66.234:8080/Victor6127/V6127/4054
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-universal-channel.png" group-title="• CINE", CINE - UNIVERSAL CHANNEL
+http://50.7.66.234:8080/Victor6127/V6127/1156005
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-studio-universal.png" group-title="• CINE", CINE - STUDIO UNIVERSAL FHD
+http://50.7.66.234:8080/Victor6127/V6127/4100
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-studio-universal.png" group-title="• CINE", CINE - STUDIO UNIVERSAL
+http://50.7.66.234:8080/Victor6127/V6127/1155803
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-universal-reality.png" group-title="• CINE", CINE - UNIVERSAL REALITY
+http://50.7.66.234:8080/Victor6127/V6127/1119205
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-universal-cinema.png" group-title="• CINE", CINE - UNIVERSAL CINEMA
+http://50.7.66.234:8080/Victor6127/V6127/1119206
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-universal-crime.png" group-title="• CINE", CINE - UNIVERSAL CRIME ESTE
+http://50.7.66.234:8080/Victor6127/V6127/1119203
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-universal-premier.png" group-title="• CINE", CINE - UNIVERSAL PREMIER ESTE
+http://50.7.66.234:8080/Victor6127/V6127/1119204
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-universal-comedy.png" group-title="• CINE", CINE - UNIVERSAL COMEDY
+http://50.7.66.234:8080/Victor6127/V6127/1119202
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-universal-crime.png" group-title="• CINE", CINE - UNIVERSAL CRIME OESTE
+http://50.7.66.234:8080/Victor6127/V6127/1119200
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-universal-premier.png" group-title="• CINE", CINE - UNIVERSAL PREMIER OESTE
+http://50.7.66.234:8080/Victor6127/V6127/1119201
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-panico-tv.png" group-title="• CINE", CINE - PANICO TV HD
+http://50.7.66.234:8080/Victor6127/V6127/7436
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-europa-europa.png" group-title="• CINE", CINE - EUROPA EUROPA
+http://50.7.66.234:8080/Victor6127/V6127/33359
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-SEO-tv-peliculas.png" group-title="• CINE", CINE - SEO TV PELICULAS
+http://50.7.66.234:8080/Victor6127/V6127/1148845
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-DHE.png" group-title="• CINE", CINE - DHE
+http://50.7.66.234:8080/Victor6127/V6127/24180
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-TBS.png" group-title="• CINE", CINE - TBS
+http://50.7.66.234:8080/Victor6127/V6127/4011
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-cinema-marvel-studios.png" group-title="• CINE", CINE - CINEMA MARVEL STUDIOS
+http://50.7.66.234:8080/Victor6127/V6127/44728
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-morbid-tv.png" group-title="• CINE", CINE - MORBID TV
+http://50.7.66.234:8080/Victor6127/V6127/33364
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos2/-CINEMA-DISNEY-FAMILY.png" group-title="• CINE", CINE - CINEMA DISNEY FAMILY
+http://50.7.66.234:8080/Victor6127/V6127/1161847
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos2/-CINEMA-DC-UNIVERSE.png" group-title="• CINE", CINE - CINEMA DC UNIVERSE
+http://50.7.66.234:8080/Victor6127/V6127/1161848
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos2/-CINEMA-DREAMWORKS.png" group-title="• CINE", CINE - CINEMA DREAMWORKS
+http://50.7.66.234:8080/Victor6127/V6127/1161849
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-lifetime.png" group-title="• ENTRETENIMIENTO", ENT - LIFETIME HD
+http://50.7.66.234:8080/Victor6127/V6127/1155873
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-E!-entertainment.png" group-title="• ENTRETENIMIENTO", ENT - E! ENTERTAINMENT FHD
+http://50.7.66.234:8080/Victor6127/V6127/4041
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-E!-entertainment.png" group-title="• ENTRETENIMIENTO", ENT -  E! ENTERTAINMENT HD
+http://50.7.66.234:8080/Victor6127/V6127/1155867
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-discovery-turbo.png" group-title="• ENTRETENIMIENTO", ENT - DISCOVERY TURBO FHD
+http://50.7.66.234:8080/Victor6127/V6127/4075
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-discovery-turbo.png" group-title="• ENTRETENIMIENTO", ENT - DISCOVERY TURBO
+http://50.7.66.234:8080/Victor6127/V6127/1155871
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-el-garage.png" group-title="• ENTRETENIMIENTO", ENT -  EL GARAGE HD
+http://50.7.66.234:8080/Victor6127/V6127/1155864
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-el-garage.png" group-title="• ENTRETENIMIENTO", ENT - EL GARAGE TV
+http://50.7.66.234:8080/Victor6127/V6127/4016
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-el-gourmet.png" group-title="• ENTRETENIMIENTO", ENT - EL GOURMET FHD
+http://50.7.66.234:8080/Victor6127/V6127/4042
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-el-gourmet.png" group-title="• ENTRETENIMIENTO", ENT - El Gourmet HD
+http://50.7.66.234:8080/Victor6127/V6127/1155868
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-cocina.png" group-title="• ENTRETENIMIENTO", ENT - COCINA
+http://50.7.66.234:8080/Victor6127/V6127/1153332
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-food-network.png" group-title="• ENTRETENIMIENTO", ENT - FOOD NETWORK FHD
+http://50.7.66.234:8080/Victor6127/V6127/4057
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-food-network.png" group-title="• ENTRETENIMIENTO", ENT - FOOD NETWORK
+http://50.7.66.234:8080/Victor6127/V6127/4146
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-comedy-central.png" group-title="• ENTRETENIMIENTO", ENT - COMEDY CENTRAL FHD
+http://50.7.66.234:8080/Victor6127/V6127/4039
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-comedy-central.png" group-title="• ENTRETENIMIENTO", ENT - Comedy Central HD
+http://50.7.66.234:8080/Victor6127/V6127/1155872
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-distrito-comedia.png" group-title="• ENTRETENIMIENTO", ENT - DISTRITO COMEDIA FHD
+http://50.7.66.234:8080/Victor6127/V6127/4040
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-E!-entertainment.png" group-title="• ENTRETENIMIENTO", ENT - E! ENTERTAINMENT FHD
+http://50.7.66.234:8080/Victor6127/V6127/4041
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-E!-entertainment.png" group-title="• ENTRETENIMIENTO", ENT -  E! ENTERTAINMENT HD
+http://50.7.66.234:8080/Victor6127/V6127/1155867
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-discovery-turbo.png" group-title="• ENTRETENIMIENTO", ENT - DISCOVERY TURBO FHD
+http://50.7.66.234:8080/Victor6127/V6127/4075
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-discovery-turbo.png" group-title="• ENTRETENIMIENTO", ENT - DISCOVERY TURBO
+http://50.7.66.234:8080/Victor6127/V6127/1155871
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-el-garage.png" group-title="• ENTRETENIMIENTO", ENT -  EL GARAGE HD
+http://50.7.66.234:8080/Victor6127/V6127/1155864
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-el-garage.png" group-title="• ENTRETENIMIENTO", ENT - EL GARAGE TV
+http://50.7.66.234:8080/Victor6127/V6127/4016
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-el-gourmet.png" group-title="• ENTRETENIMIENTO", ENT - EL GOURMET FHD
+http://50.7.66.234:8080/Victor6127/V6127/4042
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-el-gourmet.png" group-title="• ENTRETENIMIENTO", ENT - El Gourmet HD
+http://50.7.66.234:8080/Victor6127/V6127/1155868
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-cocina.png" group-title="• ENTRETENIMIENTO", ENT - COCINA
+http://50.7.66.234:8080/Victor6127/V6127/1153332
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-food-network.png" group-title="• ENTRETENIMIENTO", ENT - FOOD NETWORK FHD
+http://50.7.66.234:8080/Victor6127/V6127/4057
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-baby-tv.png" group-title="• INFANTILES •", INF -  BABY TV HQ FHD
+http://50.7.66.234:8080/Victor6127/V6127/4116
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-baby-tv.png" group-title="• INFANTILES •", INF - BABY TV
+http://50.7.66.234:8080/Victor6127/V6127/3798
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-baby-first.png" group-title="• INFANTILES •", INF - BABY FIRST FHD
+http://50.7.66.234:8080/Victor6127/V6127/4088
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-baby-first.png" group-title="• INFANTILES •", INF - BABY FIRST
+http://50.7.66.234:8080/Victor6127/V6127/1155858
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-cartoonito.png" group-title="• INFANTILES •", INF - CARTOONITO FHD
+http://50.7.66.234:8080/Victor6127/V6127/4061
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-cartoonito.png" group-title="• INFANTILES •", INF - CARTOONITO HD
+http://50.7.66.234:8080/Victor6127/V6127/1155854
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-tooncast.png" group-title="• INFANTILES •", INF - TOONCAST FHD
+http://50.7.66.234:8080/Victor6127/V6127/4051
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-tooncast.png" group-title="• INFANTILES •", INF -  TOONCAST
+http://50.7.66.234:8080/Victor6127/V6127/1155861
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-nickelodeon.png" group-title="• INFANTILES •", INF - NICKELODEON FHD
+http://50.7.66.234:8080/Victor6127/V6127/4058
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-nickelodeon.png" group-title="• INFANTILES •", INF - NICKELODEON HD
+http://50.7.66.234:8080/Victor6127/V6127/1155856
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-discovery-kids.png" group-title="• INFANTILES •", INF - DISCOVERY KIDS FHD
+http://50.7.66.234:8080/Victor6127/V6127/4072
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-discovery-kids.png" group-title="• INFANTILES •", INF - DISCOVERY KIDS HD
+http://50.7.66.234:8080/Victor6127/V6127/1155851
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-cartoon-network.png" group-title="• INFANTILES •", INF - CARTOON NETWORK FHD
+http://50.7.66.234:8080/Victor6127/V6127/4063
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-cartoon-network.png" group-title="• INFANTILES •", INF - CARTOON NETWORK
+http://50.7.66.234:8080/Victor6127/V6127/1155850
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-disney-channel.png" group-title="• INFANTILES •", INF - DISNEY CHANNEL
+http://50.7.66.234:8080/Victor6127/V6127/4004
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-DISNEY-JR.png" group-title="• INFANTILES •", INF - DISNEY JR FHD
+http://50.7.66.234:8080/Victor6127/V6127/4111
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-DISNEY-JR.png" group-title="• INFANTILES •", INF  - DISNEY JR
+http://50.7.66.234:8080/Victor6127/V6127/1144260
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos2/-NICK-JUNIOR.png" group-title="• INFANTILES •", INF - NICK JUNIOR
+http://50.7.66.234:8080/Victor6127/V6127/4194
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-teennick.png" group-title="• INFANTILES •", INF - TEENNICK
+http://50.7.66.234:8080/Victor6127/V6127/4140
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="• LATINO DEPORTES •", LD - ESPN 1 SUR HD
+http://50.7.66.234:8080/Victor6127/V6127/1155888
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="• LATINO DEPORTES •", LD - ESPN 1 SUR SD
+http://50.7.66.234:8080/Victor6127/V6127/33469
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="• LATINO DEPORTES •", LD - ESPN 2 SUR HD
+http://50.7.66.234:8080/Victor6127/V6127/43637
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="• LATINO DEPORTES •", LD - ESPN 2 SUR SD
+http://50.7.66.234:8080/Victor6127/V6127/1155889
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png" group-title="• LATINO DEPORTES •", LD - ESPN SUR 3 HD
+http://50.7.66.234:8080/Victor6127/V6127/1155890
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-4.png" group-title="• LATINO DEPORTES •", LD - ESPN 4 SUR HD
+http://50.7.66.234:8080/Victor6127/V6127/1118360
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-4.png" group-title="• LATINO DEPORTES •", LD - ESPN 4
+http://50.7.66.234:8080/Victor6127/V6127/18580
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-extra.png" group-title="• LATINO DEPORTES •", LD - ESPN EXTRA SUR FHD
+http://50.7.66.234:8080/Victor6127/V6127/7940
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-extra.png" group-title="• LATINO DEPORTES •", LD - ESPN EXTRA SUR HD
+http://50.7.66.234:8080/Victor6127/V6127/43638
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="• LATINO DEPORTES •", LD - ESPN CHILE HD
+http://50.7.66.234:8080/Victor6127/V6127/1080110
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="• LATINO DEPORTES •", LD - ESPN CHILE SD
+http://50.7.66.234:8080/Victor6127/V6127/1080111
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-4.png" group-title="• LATINO DEPORTES •", LD - ESPN 4 BRASIL
+http://50.7.66.234:8080/Victor6127/V6127/1147322
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="• LATINO DEPORTES •", LD - ESPN MX
+http://50.7.66.234:8080/Victor6127/V6127/1155892
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="• LATINO DEPORTES •", LD - ESPN 2 MX HD
+http://50.7.66.234:8080/Victor6127/V6127/1118923
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png" group-title="• LATINO DEPORTES •", LD - ESPN 3 MX HD
+http://50.7.66.234:8080/Victor6127/V6127/1155903
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-plus.png" group-title="• LATINO DEPORTES •", LD - ESPN PLUS MX
+http://50.7.66.234:8080/Victor6127/V6127/4120
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-extra.png" group-title="• LATINO DEPORTES •", LD - ESPN EXTRA BRASIL
+http://50.7.66.234:8080/Victor6127/V6127/1159094
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="• LATINO DEPORTES •", LD - ESPN 1 BRASIL
+http://50.7.66.234:8080/Victor6127/V6127/1159095
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png" group-title="• LATINO DEPORTES •", LD - ESPN 3 BRASIL
+http://50.7.66.234:8080/Victor6127/V6127/1159093
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="• LATINO DEPORTES •", LD - ESPN DEPORTES
+http://50.7.66.234:8080/Victor6127/V6127/1155891
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Fox-sports.png" group-title="• LATINO DEPORTES •", LD - FOX SPORTS 1 HD CHILE
+http://50.7.66.234:8080/Victor6127/V6127/1155912
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Fox-sports.png" group-title="• LATINO DEPORTES •", LD - FOX SPORTS 1 SD (CHILE)
+http://50.7.66.234:8080/Victor6127/V6127/1095232
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-2.png" group-title="• LATINO DEPORTES •", LD - FOX SPORTS 2 SUR HD
+http://50.7.66.234:8080/Victor6127/V6127/16139
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-2.png" group-title="• LATINO DEPORTES •", LD - FOX SPORTS 2 SUR SD
+http://50.7.66.234:8080/Victor6127/V6127/42456
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-3.png" group-title="• LATINO DEPORTES •", LD - FOX SPORTS 3 SUR HD
+http://50.7.66.234:8080/Victor6127/V6127/33475
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-3.png" group-title="• LATINO DEPORTES •", LD - FOX SPORTS 3 SUR SD
+http://50.7.66.234:8080/Victor6127/V6127/43640
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Fox-sports.png" group-title="• LATINO DEPORTES •", LD - FOX SPORTS 1 HD MEX
+http://50.7.66.234:8080/Victor6127/V6127/1156755
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-2.png" group-title="• LATINO DEPORTES •", LD - FOX SPORTS 2 HD MEX
+http://50.7.66.234:8080/Victor6127/V6127/1156756
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-3.png" group-title="• LATINO DEPORTES •", LD - FOX SPORTS 3 HD MEX
+http://50.7.66.234:8080/Victor6127/V6127/1156757
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-3.png" group-title="• LATINO DEPORTES •", LD - FOX SPORTS 3 MX
+http://50.7.66.234:8080/Victor6127/V6127/4008
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Fox-Sports-premium.png" group-title="• LATINO DEPORTES •", LD - FOX SPORTS PREMIUM FHD (MX)
+http://50.7.66.234:8080/Victor6127/V6127/1126417
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="• LATINO DEPORTES •", LD - DIRECTV SPORTS FHD
+http://50.7.66.234:8080/Victor6127/V6127/1091366
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="• LATINO DEPORTES •", LD - DIRECTV SPORTS HD
+http://50.7.66.234:8080/Victor6127/V6127/7863
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="• LATINO DEPORTES •", LD - DIRECTV SPORTS SD
+http://50.7.66.234:8080/Victor6127/V6127/33512
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-2.png" group-title="• LATINO DEPORTES •", LD - DIRECTV SPORTS 2 FHD
+http://50.7.66.234:8080/Victor6127/V6127/1091367
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-2.png" group-title="• LATINO DEPORTES •", LD - DIRECTV SPORTS 2 HD
+http://50.7.66.234:8080/Victor6127/V6127/32882
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-2.png" group-title="• LATINO DEPORTES •", LD - DIRECTV SPORTS 2 SD
+http://50.7.66.234:8080/Victor6127/V6127/32881
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-plus.png" group-title="• LATINO DEPORTES •", LD - DIRECTV SPORTS PLUS FHD
+http://50.7.66.234:8080/Victor6127/V6127/1091368
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-plus.png" group-title="• LATINO DEPORTES •", LD - DIRECTV SPORTS PLUS HD
+http://50.7.66.234:8080/Victor6127/V6127/27879
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-plus.png" group-title="• LATINO DEPORTES •", LD - DIRECTV SPORTS PLUS SD
+http://50.7.66.234:8080/Victor6127/V6127/8520
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Directv-fight.png" group-title="• LATINO DEPORTES •", LD - DIRECTV FIGHT FHD
+http://50.7.66.234:8080/Victor6127/V6127/1155911
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-gol-tv.png" group-title="• LATINO DEPORTES •", LD - GOL TV FHD
+http://50.7.66.234:8080/Victor6127/V6127/1092639
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-gol-tv.png" group-title="• LATINO DEPORTES •", LD - GOL TV HD
+http://50.7.66.234:8080/Victor6127/V6127/1156009
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-gol-tv.png" group-title="• LATINO DEPORTES •", LD - GOL TV SD
+http://50.7.66.234:8080/Victor6127/V6127/1092653
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-golf-latin-america.png" group-title="• LATINO DEPORTES •", LD - GOLF LATIN AMERICA
+http://50.7.66.234:8080/Victor6127/V6127/33363
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-TYC-sports.png" group-title="• LATINO DEPORTES •", LD - TYC SPORTS
+http://50.7.66.234:8080/Victor6127/V6127/8247
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-tvc.png" group-title="• LATINO DEPORTES •", LD - TVC DEPORTES
+http://50.7.66.234:8080/Victor6127/V6127/4139
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-claro-sports.png" group-title="• LATINO DEPORTES •", LD - CLARO SPORTS HD
+http://50.7.66.234:8080/Victor6127/V6127/12011
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-AYM-sports.png" group-title="• LATINO DEPORTES •", LD - AYM SPORTS
+http://50.7.66.234:8080/Victor6127/V6127/1156008
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-univision-TUDN.png" group-title="• LATINO DEPORTES •", LD - UNIVISION TUDN USA
+http://50.7.66.234:8080/Victor6127/V6127/1156010
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-univision-deportes.png" group-title="• LATINO DEPORTES •", LD - UNIVISION DEPORTES FHD
+http://50.7.66.234:8080/Victor6127/V6127/3962
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-univision-TUDN.png" group-title="• LATINO DEPORTES •", LD - UNIVISION TUDN HD
+http://50.7.66.234:8080/Victor6127/V6127/4117
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-TUDN.png" group-title="• LATINO DEPORTES •", LD - TUDN FHD
+http://50.7.66.234:8080/Victor6127/V6127/3963
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-UFC-live.png" group-title="• LATINO DEPORTES •", LD - UFC LIVE HD
+http://50.7.66.234:8080/Victor6127/V6127/53372
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-UFC-network.png" group-title="• LATINO DEPORTES •", LD - UFC  NETWORK FHD
+http://50.7.66.234:8080/Victor6127/V6127/4082
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="• LATINO DEPORTES •", LD - ESPN 2 SUR HD
+http://50.7.66.234:8080/Victor6127/V6127/43637
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="• LATINO DEPORTES •", LD - ESPN 2 SUR SD
+http://50.7.66.234:8080/Victor6127/V6127/1155889
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png" group-title="• LATINO DEPORTES •", LD - ESPN SUR 3 HD
+http://50.7.66.234:8080/Victor6127/V6127/1155890
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png" group-title="• LATINO DEPORTES •", LD - ESPN 3 SUR SD
+http://50.7.66.234:8080/Victor6127/V6127/43639
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-4.png" group-title="• LATINO DEPORTES •", LD - ESPN 4 SUR HD
+http://50.7.66.234:8080/Victor6127/V6127/1118360
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-4.png" group-title="• LATINO DEPORTES •", LD - ESPN 4
+http://50.7.66.234:8080/Victor6127/V6127/18580
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-extra.png" group-title="• LATINO DEPORTES •", LD - ESPN EXTRA SUR FHD
+http://50.7.66.234:8080/Victor6127/V6127/7940
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-eleven-sports-5.png" group-title="• LATINO DEPORTES •", LD - ELEVEN SPORTS 5
+http://50.7.66.234:8080/Victor6127/V6127/1147320
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-eleven-sports-6.png" group-title="• LATINO DEPORTES •", LD - ELEVEN SPORTS 6
+http://50.7.66.234:8080/Victor6127/V6127/1147321
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Vix.png" group-title="• LATINO DEPORTES •", LD - VIX LO MEJOR DE LIGA MX
+http://50.7.66.234:8080/Victor6127/V6127/1158436
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-galavision.png" group-title="LATINOS [USA]", LAT - GALAVISION HD
+http://50.7.66.234:8080/Victor6127/V6127/3793
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-CNN.png" group-title="LATINOS [USA]", LAT - CNN EN ESPAÑOL
+http://50.7.66.234:8080/Victor6127/V6127/4014
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-CNN.png" group-title="LATINOS [USA]", LAT - CNN USA
+http://50.7.66.234:8080/Victor6127/V6127/33360
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-estrella-tv.png" group-title="LATINOS [USA]", LAT - ESTRELLA TV
+http://50.7.66.234:8080/Victor6127/V6127/41188
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-CBS.png" group-title="LATINOS [USA]", LAT - CBS BOSTON
+http://50.7.66.234:8080/Victor6127/V6127/45550
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-NBC.png" group-title="LATINOS [USA]", LAT - NBC  BOSTON
+http://50.7.66.234:8080/Victor6127/V6127/45551
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-FOX.png" group-title="LATINOS [USA]", LAT - FOX BOSTON
+http://50.7.66.234:8080/Victor6127/V6127/45552
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-america-teve.png" group-title="LATINOS [USA]", LAT - AMERICA TEVE
+http://50.7.66.234:8080/Victor6127/V6127/48119
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-pasiones.png" group-title="LATINOS [USA]", LAT - PASIONES
+http://50.7.66.234:8080/Victor6127/V6127/49168
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-pasiones.png" group-title="LATINOS [USA]", LAT-USA-PASIONES(2)
+http://50.7.66.234:8080/Victor6127/V6127/1085156
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-univision.png" group-title="LATINOS [USA]", LAT - UNIVISION DALLAS
+http://50.7.66.234:8080/Victor6127/V6127/18559
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-univision.png" group-title="LATINOS [USA]", LAT - UNIVISION SAN FRANCISCO
+http://50.7.66.234:8080/Victor6127/V6127/18560
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-univision.png" group-title="LATINOS [USA]", LAT - UNIVISION LAS VEGAS
+http://50.7.66.234:8080/Victor6127/V6127/18563
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-univision.png" group-title="LATINOS [USA]", LAT - UNIVISION DENVER
+http://50.7.66.234:8080/Victor6127/V6127/18565
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-univision.png" group-title="LATINOS [USA]", LAT - UNIVISION NOTICIAS
+http://50.7.66.234:8080/Victor6127/V6127/18568
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-univision.png" group-title="LATINOS [USA]", LAT- UNIVISION ATLANTA
+http://50.7.66.234:8080/Victor6127/V6127/56303
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-univision.png" group-title="LATINOS [USA]", LAT - Univision New York HD
+http://50.7.66.234:8080/Victor6127/V6127/1156211
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-univision.png" group-title="LATINOS [USA]", LAT - Univision Miami HD
+http://50.7.66.234:8080/Victor6127/V6127/1156213
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="LATINOS [USA]", LAT - TELEMUNDO INTERNACIONAL
+http://50.7.66.234:8080/Victor6127/V6127/43189
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="LATINOS [USA]", LAT - TELEMUNDO BOSTON
+http://50.7.66.234:8080/Victor6127/V6127/3794
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="LATINOS [USA]", LAT - TELEMUNDO LAS VEGAS
+http://50.7.66.234:8080/Victor6127/V6127/18775
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="LATINOS [USA]", LAT - TELEMUNDO PHILADELPHIA
+http://50.7.66.234:8080/Victor6127/V6127/43289
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="LATINOS [USA]", LAT- TELEMUNDO TAMPA
+http://50.7.66.234:8080/Victor6127/V6127/1070040
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="LATINOS [USA]", LAT- TELEMUNDO ORLANDO
+http://50.7.66.234:8080/Victor6127/V6127/1118963
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="LATINOS [USA]", LAT - TELEMUNDO MIAMI
+http://50.7.66.234:8080/Victor6127/V6127/1156210
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="LATINOS [USA]", LAT - TELEMUNDO 39 DALLAS
+http://50.7.66.234:8080/Victor6127/V6127/30216
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="LATINOS [USA]", LAT - TELEMUNDO 51 MIAMI
+http://50.7.66.234:8080/Victor6127/V6127/18779
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-unimas.png" group-title="LATINOS [USA]", LAT - UNIMAS DALLAS
+http://50.7.66.234:8080/Victor6127/V6127/3795
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-unimas.png" group-title="LATINOS [USA]", LAT - UNIMAS MIAMI
+http://50.7.66.234:8080/Victor6127/V6127/18773
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-unimas.png" group-title="LATINOS [USA]", LAT - UNIMAS NEW YORK
+http://50.7.66.234:8080/Victor6127/V6127/18772
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-unimas.png" group-title="LATINOS [USA]", LAT - UNIMAS DENVER
+http://50.7.66.234:8080/Victor6127/V6127/18572
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-news-12.png" group-title="LATINOS [USA]", LAT - NEWS 12 NEW JERSEY
+http://50.7.66.234:8080/Victor6127/V6127/1160043
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-mega-tv.png" group-title="LATINOS [USA]", US.FM - MEGA TV
+http://50.7.66.234:8080/Victor6127/V6127/45280
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-discovery-en-espanol.png" group-title="• MUNDO Y CULTURA", MyC- DISCOVERY EN ESPAÑOL
+http://50.7.66.234:8080/Victor6127/V6127/56304
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-discovery-channel.png" group-title="• MUNDO Y CULTURA", MYC - DISCOVERY CHANNEL FHD
+http://50.7.66.234:8080/Victor6127/V6127/4069
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-discovery-channel.png" group-title="• MUNDO Y CULTURA", MyC - DISCOVERY CHANNEL
+http://50.7.66.234:8080/Victor6127/V6127/1155807
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-discovery-ID.png" group-title="• MUNDO Y CULTURA", MYC - DISCOVERY ID FHD
+http://50.7.66.234:8080/Victor6127/V6127/1156012
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-discovery-ID.png" group-title="• MUNDO Y CULTURA", MyC - DISCOVERY ID
+http://50.7.66.234:8080/Victor6127/V6127/4123
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-discovery-home-&-health.png" group-title="• MUNDO Y CULTURA", MYC - DISCOVERY HOME & HEALTH FHD
+http://50.7.66.234:8080/Victor6127/V6127/4070
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-discovery-home-&-health.png" group-title="• MUNDO Y CULTURA", MyC - DISCOVERY HOME & HEALTH
+http://50.7.66.234:8080/Victor6127/V6127/1155816
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-discovery-theater.png" group-title="• MUNDO Y CULTURA", MYC - DISCOVERY THEATER FHD
+http://50.7.66.234:8080/Victor6127/V6127/4073
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-discovery-theater.png" group-title="• MUNDO Y CULTURA", MyC - DISCOVERY THEATER
+http://50.7.66.234:8080/Victor6127/V6127/4119
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-discovery-world.png" group-title="• MUNDO Y CULTURA", MYC  - DISCOVERY WORLD FHD
+http://50.7.66.234:8080/Victor6127/V6127/4076
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-discovery-world.png" group-title="• MUNDO Y CULTURA", MyC - DISCOVERY WORLD
+http://50.7.66.234:8080/Victor6127/V6127/1155812
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-discovery-science.png" group-title="• MUNDO Y CULTURA", MyC - DISCOVERY SCIENCE
+http://50.7.66.234:8080/Victor6127/V6127/1155818
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-animal-planet.png" group-title="• MUNDO Y CULTURA", MYC - ANIMAL PLANET FHD
+http://50.7.66.234:8080/Victor6127/V6127/4067
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-animal-planet.png" group-title="• MUNDO Y CULTURA", MyC - ANIMAL PLANET
+http://50.7.66.234:8080/Victor6127/V6127/1155797
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-history.png" group-title="• MUNDO Y CULTURA", MYC - HISTORY FHD
+http://50.7.66.234:8080/Victor6127/V6127/4093
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-history.png" group-title="• MUNDO Y CULTURA", MyC - HISTORY HD
+http://50.7.66.234:8080/Victor6127/V6127/1155804
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-H2-(history2).png" group-title="• MUNDO Y CULTURA", MyC - H2
+http://50.7.66.234:8080/Victor6127/V6127/4005
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-NATGEO.png" group-title="• MUNDO Y CULTURA", MYC - NAT GEO FHD
+http://50.7.66.234:8080/Victor6127/V6127/4097
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-NATGEO.png" group-title="• MUNDO Y CULTURA", MyC - NATGEO
+http://50.7.66.234:8080/Victor6127/V6127/4126
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-NATGEO-mundo.png" group-title="• MUNDO Y CULTURA", MyC - NATGEO MUNDO
+http://50.7.66.234:8080/Victor6127/V6127/3774
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-discovery-TLC.png" group-title="• MUNDO Y CULTURA", MyC - DISCOVERY TLC
+http://50.7.66.234:8080/Victor6127/V6127/1155820
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-film-&-arts.png" group-title="• MUNDO Y CULTURA", MyC - FILM & ARTS
+http://50.7.66.234:8080/Victor6127/V6127/3966
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos2/-TLC.png" group-title="• MUNDO Y CULTURA", MYC - TLC FHD
+http://50.7.66.234:8080/Victor6127/V6127/4074
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-HGTV.png" group-title="• MUNDO Y CULTURA", MyC - HGTV HD
+http://50.7.66.234:8080/Victor6127/V6127/1155823
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-hispan-tv.png" group-title="• MUNDO Y CULTURA", MyC - HISPAN TV
+http://50.7.66.234:8080/Victor6127/V6127/33481
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-RT-espanol.png" group-title="• MUNDO Y CULTURA", MyC - RT ESPAÑOL
+http://50.7.66.234:8080/Victor6127/V6127/1155802
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-DW-en-espanol.png" group-title="• MUNDO Y CULTURA", MyC - DW EN ESPANOL
+http://50.7.66.234:8080/Victor6127/V6127/1155821
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-XXX-ADULT.png" group-title="XXX", ADULTOS - PPV 01
+http://50.7.66.234:8080/Victor6127/V6127/1156128
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-XXX-ADULT.png" group-title="XXX", ADULTOS - PPV 02
+http://50.7.66.234:8080/Victor6127/V6127/7130
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-XXX-ADULT.png" group-title="XXX", ADULTOS - PPV 03
+http://50.7.66.234:8080/Victor6127/V6127/1156129
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-XXX-ADULT.png" group-title="XXX", ADULTOS - PPV 04
+http://50.7.66.234:8080/Victor6127/V6127/7129
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-XXX-ADULT.png" group-title="XXX", ADULTOS - PPV 05
+http://50.7.66.234:8080/Victor6127/V6127/1156130
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-XXX-ADULT.png" group-title="XXX", ADULTOS - PPV 07
+http://50.7.66.234:8080/Victor6127/V6127/47989
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-XXX-ADULT.png" group-title="XXX", ADULTOS - PPV 03
+http://50.7.66.234:8080/Victor6127/V6127/1156129
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-XXX-ADULT.png" group-title="XXX", ADULTOS - PPV 04
+http://50.7.66.234:8080/Victor6127/V6127/7129
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-XXX-ADULT.png" group-title="XXX", ADULTOS - PPV 10
+http://50.7.66.234:8080/Victor6127/V6127/1156132
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-XXX-ADULT.png" group-title="XXX", ADULTOS - PPV 11
+http://50.7.66.234:8080/Victor6127/V6127/7128
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-XXX-ADULT.png" group-title="XXX", ADULTOS - PPV 12
+http://50.7.66.234:8080/Victor6127/V6127/18550
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-XXX-ADULT.png" group-title="XXX", ADULTOS - PPV 13
+http://50.7.66.234:8080/Victor6127/V6127/1071029
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-XXX-ADULT.png" group-title="XXX", ADULTOS - PPV 14
+http://50.7.66.234:8080/Victor6127/V6127/47991
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-XXX-ADULT.png" group-title="XXX", ADULTOS - PPV 15 (GAY’S)
+http://50.7.66.234:8080/Victor6127/V6127/47992
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-XXX-ADULT.png" group-title="XXX", ADULTOS - PPV 16
+http://50.7.66.234:8080/Victor6127/V6127/17190
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-XXX-ADULT.png" group-title="XXX", ADULTOS - PPV 17
+http://50.7.66.234:8080/Victor6127/V6127/1071030
+
+#EXTINF:-1 tvg-id="AdultIPTVnetAnal.us" tvg-logo="https://i.imgur.com/QFo6Ptm.png" group-title="XXX",AdultIPTV.net Anal (720p)
+https://cdn.adultiptv.net/anal.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetAsian.us" tvg-logo="https://i.imgur.com/mBJyTOp.png" group-title="XXX",AdultIPTV.net Asian (720p)
+https://cdn.adultiptv.net/asian.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetBigAss.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Big Ass (720p)
+https://cdn.adultiptv.net/bigass.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetBigDick.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Big Dick (720p)
+https://cdn.adultiptv.net/bigdick.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetBigTits.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Big Tits (720p)
+https://cdn.adultiptv.net/bigtits.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetBlonde.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Blonde (720p)
+https://cdn.adultiptv.net/blonde.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetBlowjob.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Blowjob (720p)
+https://cdn.adultiptv.net/blowjob.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetBrunette.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Brunette (720p)
+https://cdn.adultiptv.net/brunette.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetCompilation.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Compilation (720p)
+https://cdn.adultiptv.net/compilation.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetCuckold.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Cuckold (720p)
+https://cdn.adultiptv.net/cuckold.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetFetish.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Fetish (720p)
+https://cdn.adultiptv.net/fetish.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetGangbang.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Gangbang (720p)
+https://cdn.adultiptv.net/gangbang.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetGay.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Gay (720p)
+https://cdn.adultiptv.net/gay.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetHardcore.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Hardcore (720p)
+https://cdn.adultiptv.net/hardcore.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetInterracial.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Interracial (720p)
+https://cdn.adultiptv.net/interracial.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetLatina.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Latina (720p)
+https://cdn.adultiptv.net/latina.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetLesbian.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Lesbian (720p)
+https://cdn.adultiptv.net/lesbian.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetLiveCams.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Live Cams (720p)
+https://cdn.adultiptv.net/livecams.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetMILF.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net MILF (720p)
+https://cdn.adultiptv.net/milf.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetPornstar.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Pornstar (720p)
+https://cdn.adultiptv.net/pornstar.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetPOV.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net POV (720p)
+https://cdn.adultiptv.net/pov.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetRough.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Rough (720p)
+https://cdn.adultiptv.net/rough.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetRussian.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Russian (720p)
+https://cdn.adultiptv.net/russian.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetTeen.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Teen (720p)
+https://cdn.adultiptv.net/teen.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetThreesome.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Threesome (720p)
+https://cdn.adultiptv.net/threesome.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetWoman.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Woman (720p)
+https://live.redtraffic.net/woman.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="MiamiTV.us" tvg-logo="https://i.imgur.com/esK4CBZ.png" group-title="XXX Miami",Miami TV (720p)
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JennyLive.us" tvg-logo="https://i.imgur.com/3vsBZI3.png" group-title="XXX Miami",Miami TV Jenny Live (720p) [Not 24/7]
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MiamiTVMexico.us" tvg-logo="https://i.imgur.com/MpQtdTb.png" group-title="XXX Miami",Miami TV México (720p) [Not 24/7]
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
+
